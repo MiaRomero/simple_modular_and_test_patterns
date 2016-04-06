@@ -1,3 +1,4 @@
+/* eslint-env mocha */
 const expect = require('chai').expect;
 const sayHello = require(__dirname + '/../lib/sayHello');
 

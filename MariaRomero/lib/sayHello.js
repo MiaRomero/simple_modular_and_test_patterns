@@ -1,5 +1,5 @@
 const sayHello = module.exports = {
-  "greet": function(name){
+  'greet': function(name){
     if(!process.argv[2]){
       return('hello ' + name);
     }
